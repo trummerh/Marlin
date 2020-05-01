@@ -1081,7 +1081,7 @@
  *     |           |
  *     O-- FRONT --+
  *   (0,0)
- *
+ * 
  * Specify a Probe position as { X, Y, Z }
  */
 #if ANYCUBIC_PROBE_VERSION == 2
